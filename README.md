@@ -292,6 +292,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                  </a>
              </td>
              <td align="center">
+                 <a href="https://github.com/maheshkhatana1">
+                   <img src="https://avatars.githubusercontent.com/u/121846499?v=4" width="100px;"
+                    alt="Mahesh Khatana"/>
+                   <br />
+                   <sub><b>Mahesh Khatana</b></sub>
+                 </a>
+             </td>
+             <td align="center">
                  <a href="https://github.com/kaustubh-Joshi1020">
                    <img src="https://avatars.githubusercontent.com/u/109413003?v=4" width="100px;" alt="Kaustubh Joshi"/>
                    <br />
